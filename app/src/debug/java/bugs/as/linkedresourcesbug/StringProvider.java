@@ -1,0 +1,1 @@
+../../../../../release/java/bugs/as/linkedresourcesbug/StringProvider.java
